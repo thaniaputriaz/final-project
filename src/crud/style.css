@@ -1,0 +1,23 @@
+.container {
+   
+}
+
+.label {
+    font-weight: 500;
+    margin-left: 5px;
+}
+.formbook {
+    border-radius: 20px;
+    padding: 30px 40px ;
+    margin: 5% 10% ;
+    background-color: azure;
+    width: 70%;
+}
+.inputan {
+    display: flex;
+    justify-content: center;
+    background-color: cadetblue;
+}
+.navbarini {
+    background-color: cadetblue;
+}
